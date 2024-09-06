@@ -52,4 +52,11 @@
 
 ## Insights
 
+### Question 1: Are certain types of games more popular than others?
+### Question 2: What other publishers will likely be the main competitors in certain markets?
+### Question 3: Have any games decreased or increased in popularity over time?
+### Question 4: How have their sales figures varied between geographic regions over time?
+
+
+
 ## Recommendations
