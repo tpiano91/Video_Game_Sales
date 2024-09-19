@@ -3,7 +3,7 @@
 
 ## Project Overview
 
-#### You’re an analyst for a new video game company, GameCo, which wants to use data to inform the development of new games. As such, you’ve been asked to perform a descriptive analysis of a video game data set to foster a better understanding of how GameCo’s new games might fare in the market.
+#### GameCo, a fictional video game company, aims to leverage data insights to guide the development of new games. To support this initiative, you have been tasked with conducting a descriptive analysis of a video game sales dataset. The goal is to gain a deeper understanding of market performance trends and provide actionable insights for future game releases. Additionally, you have been asked to design an interactive dashboard that visualizes sales trends across various categories to aid in strategic decision-making.
 
 ## Key Questions
 #### GameCo executives are open to hearing any insights you can pull from the data but are specifically interested in these questions:
@@ -37,18 +37,21 @@
 #### Tools: Microsoft Excel
 #### Skills: Data Cleaning, Grouping and Summarizing Data, Descriptive Analysis, Developing Insights, Data Visualizations, Storytelling/Presenting Data
 
-## Link to Final Presentation
+## Final Dashboard
+#### To view the dashboard (and further details for the analysis), download the “vg_sales.xlsx” file. The dashboard includes the following charts: Total video game sales by region; proportion of sales by region; top selling 10 publishers; top selling genres; and top 10 selling games. The dashboard can be adjusted according to time frame and video game genre, using the slicer.
+
+![dashboard](images/dashboard.png)
+
 
 ## Steps to Analysis
 
-##### 1. Data Exploration
-##### 2. Data Cleaning
-##### 3. Grouping and Summarazing Data
-##### 4. Analytical Methods/Working with Hypotheses
-##### 5. Descriptive Analysis
-##### 6. Developing Insights
-##### 8. Data Visualizations
-##### 9. Presentation
+##### Step 1. Initial Exploration (Yellow Tab on Excel Worksheet)
+##### Step 2. Data Cleaning (Orange Tabs)
+##### Step 3. Descriptive Analysis (Blue Tabs)
+##### Step 4. Create Visualizations for Dashboard (Blue Tabs)
+##### Step 5. Create Dashboard (Green Tabs)
+##### Step 6. Record Insights and Provide Recommendations (Green Tabs)
+
 
 ## Insights
 
