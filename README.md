@@ -40,7 +40,7 @@
 ## Final Dashboard
 #### To view the dashboard (and further details for the analysis), download the “vg_sales.xlsx” file. The dashboard includes the following charts: Total video game sales by region; proportion of sales by region; top selling 10 publishers; top selling genres; and top 10 selling games. The dashboard can be adjusted according to time frame and video game genre, using the slicer.
 
-![dashboard](images/dashboard.png)
+![dashboard](Project_Folder/images/dashboard.png)
 
 
 ## Steps to Analysis
