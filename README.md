@@ -68,14 +68,13 @@
 
 #### 3) The top 3 most popular game genres globally were Action, Sports and Shooter
 ###### In Japan, Role-Playing was the most popular genre; Shooter games were not as popular as in Europe and North America
-###### Racing and Platform games were also particularly popular in North America and Europe
+###### Platform games were popular in all three regions (5th globally); Racing games were also particularly popular in North America and Europe
 
 ![Sales by Genre](Project_Folder/images/sales_by_genre.png)
 
-#### 4) The top 3 selling publishers were Nintendo, Electronic Arts and Sony Computer Entertainment
+#### 4) The top 3 selling publishers were Nintendo, Electronic Arts and Activision
 ###### Nintendo was the most popular in all three major regions
-###### Electronic Arts was not popular at all in Japan
-###### Activision was also popular in North America (3rd most popular in this region, and 4th most popular globally)
+###### Electronic Arts and Activision were not popular at all in Japan
 
 ![Sales by Publisher](Project_Folder/images/sales_by_publisher.png)
 
@@ -92,7 +91,7 @@
 #### 6) Insights for Sports games - the second top selling genre:
 
 ###### Electronic Arts sold the most sports games, followed by Nintendo, Konami and Activision
-###### Electronic Arts sold very well in North America, Europe and Other Regions but not at all in japan
+###### Electronic Arts and Activision sold well in North America, Europe and Other Regions but not at all in japan
 ###### Nintendo sports games sold well in all regions 
 ###### Konami sold better in Japan, Europe and other regions than in North America
 ###### Activision was the second third best selling publisher of sports games in North America
@@ -109,7 +108,7 @@
 ###### Investigate the reliability of sales data post-2010 due to a likely shift towards digital gaming, which may have led to a decline in reported sales. Determine if Japan experienced a similar transition earlier, causing the observed "stagnation" in sales.
 
 #### 2. Publisher Strategy: 
-###### Conduct targeted research on publishers’ genre strengths and regional performance. For instance, explore opportunities for Electronic Arts to expand into Japan by adapting their popular sports franchises to include elements of Role-Playing games, a genre preferred in Japan. 
+###### Conduct targeted research on publishers’ genre strengths, regional performance and trajectory in recent years. For instance, explore opportunities for Electronic Arts to expand into Japan by adapting their popular sports franchises to include elements of Role-Playing games, a genre preferred in Japan. 
 ###### Evaluate whether publishers should diversify into new genres or continue focusing on their existing strengths, such as Nintendo’s dominance in Role-Playing and Take-Two’s success in Action games.
 
 #### 3. Digital and Mobile Gaming Transition: 
