@@ -66,9 +66,9 @@
 
 ![Sales Over Time](Project_Folder/images/global_sales_over_time.png)
 
-#### 3) The top 3 most popular game genres globally were Action, Sports and Platform
-###### In Japan, Role-Playing was the most popular genre
-###### Racing and Shooter games were also particularly popular in North America and Europe
+#### 3) The top 3 most popular game genres globally were Action, Sports and Shooter
+###### In Japan, Role-Playing was the most popular genre; Shooter games were not as popular as in Europe and North America
+###### Racing games were also particularly popular in North America and Europe
 
 ![Sales by Genre](Project_Folder/images/sales_by_genre.png)
 
