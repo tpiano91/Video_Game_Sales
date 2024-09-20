@@ -111,20 +111,21 @@
 #### The following recommendations are a result of my descriptive analysis of global video games sales between 1980-2016. 
 
 #### 1. Data Reliability Check: 
-##### Investigate the reliability of sales data post-2010 due to a likely shift towards digital gaming, which may have led to a decline in reported sales. Determine if Japan experienced a similar transition earlier, causing the observed "stagnation" in sales.
+###### Investigate the reliability of sales data post-2010 due to a likely shift towards digital gaming, which may have led to a decline in reported sales. Determine if Japan experienced a similar transition earlier, causing the observed "stagnation" in sales.
 
 #### 2. Publisher Strategy: 
-##### Conduct targeted research on publishers’ genre strengths and regional performance. For instance, explore opportunities for Electronic Arts to expand into Japan by adapting their popular sports franchises to include elements of Role-Playing games, a genre preferred in Japan. Evaluate whether publishers should diversify into new genres or continue focusing on their existing strengths, such as Nintendo’s dominance in Role-Playing and Take-Two’s success in Action games.
+###### Conduct targeted research on publishers’ genre strengths and regional performance. For instance, explore opportunities for Electronic Arts to expand into Japan by adapting their popular sports franchises to include elements of Role-Playing games, a genre preferred in Japan. 
+###### Evaluate whether publishers should diversify into new genres or continue focusing on their existing strengths, such as Nintendo’s dominance in Role-Playing and Take-Two’s success in Action games.
 
 #### 3. Digital and Mobile Gaming Transition: 
-##### Analyze the potential success of different genres and publishers in the digital and mobile gaming market. Identify which publishers have established a strong presence in these platforms and assess whether traditional console and PC genres can adapt to digital/mobile formats.
+###### Analyze the potential success of different genres and publishers in the digital and mobile gaming market. Identify which publishers have established a strong presence in these platforms and assess whether traditional console and PC genres can adapt to digital/mobile formats.
 
 #### 4. North American Marketing Strategy: 
-##### Focus on promoting games from the top global publishers—Nintendo, EA, Sony—and Activision, which is particularly popular in North America. Target key genres such as Action, Sports, Shooter, Racing, Role-Playing, and Platform games through tailored campaigns.
+###### Focus on promoting games from the top global publishers—Nintendo, EA, Sony—and Activision, which is particularly popular in North America. Target key genres such as Action, Sports, Shooter, Racing, Role-Playing, and Platform games through tailored campaigns.
 
 #### 5. European Marketing Strategy: 
-##### Apply a similar strategy as in North America, highlighting top publishers and popular genres. Adapt the messaging and campaigns to align with regional preferences and platforms favored by European gamers.
+###### Apply a similar strategy as in North America, highlighting top publishers and popular genres. Adapt the messaging and campaigns to align with regional preferences and platforms favored by European gamers.
 
 #### 6. Japanese Marketing Strategy: 
-##### Prioritize Role-Playing games in marketing efforts, followed by the top globally selling genres, to align with Japanese gamers’ preferences. Consider developing or localizing content that blends traditional Japanese gaming elements with global bestsellers.
+###### Prioritize Role-Playing games in marketing efforts, followed by the top globally selling genres, to align with Japanese gamers’ preferences. Consider developing or localizing content that blends traditional Japanese gaming elements with global bestsellers.
 
